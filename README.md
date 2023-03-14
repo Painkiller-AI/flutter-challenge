@@ -1,4 +1,4 @@
-# Positiv Flutter Challenge
+# Painkillers Flutter Challenge
 
 ## Challenge description
 
