@@ -1,4 +1,4 @@
-# Painkillers Flutter Challenge
+# Painkiller Flutter Challenge
 
 ## Challenge description
 
